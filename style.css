@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body{
+    background: white;
+    font-size: 1em;
+    font-family: 'Trebuchet MS', sans-serif Helvetica, ;
+}
+
+ #area-logo{
+   
+   
+    text-align: center;
+    
+    
+}
+
+   
+
+#area-menu{
+    background-color: #f7b600;
+    width: 100%;
+    height:120px;
+    padding-top: 15px;
+    
+
+}
+
+#area-links{
+text-align: center;
+margin-top: 15px;
+
+}
+
+h1{
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2{
+    color: #f7b600;
+}
+
+a{
+    color: #e6e6e6;
+    
+}
+#area-links a:link, #area-links  a:visited{
+    color:white;
+    padding: 8px 12px;
+}
+
+a:hover{
+    color: #f7b600;
+    background-color: #e6e6e6;
+}
+
+.area-principal{
+    width: 920px;
+    margin: 0 auto;
+}
+
+.area-postagens{
+    width: 660px;
+    float: left;
+}
+
+.area-lateral{
+    width: 240px;
+    text-align: center;
+    background-color: #ccc;
+    height: 30px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+   
+    
+
+    
+    float: right;
+}
+
+.rodape{
+    clear: both;
+    align-content: center;
+    padding: 15px;
+    background: #ccc;
+    margin-top: 15px;
+    width: 640px;
+    text-align: center;
+
+
+}
+
+.postagens{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+
+}
+
+.data-postagem{
+    display: block;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 0.8em;
+}
+
+.leia-mais{
+    color: orange;
+    clear: both;
+}
+
+.leia-mais:hover{
+    text-decoration: underline;
+}
+
+.postagem-lateral{
+    
+   margin: 20px 0px;
+    margin-left: auto;
+    border-bottom: 1px solid #4e4e4e;
+    display: block;
+    
+    
+   
+}
